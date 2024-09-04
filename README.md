@@ -1,6 +1,6 @@
 # Edico-Importer
 
-Progetto per la creazione di un sistema che mi permette di caricare un file pdf, convertirlo in MathML e poi rifinire l'ouput per poter inserire il testo dentro Edico.
+Progetto per la creazione di un sistema che permette di caricare un file pdf, convertirlo in MathML e poi rifinire l'ouput per poter inserire il testo dentro Edico.
 
 # Cos'è Edico
 
